@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+httpx
+google-genai
+tree-sitter==0.21.3
+tree-sitter-languages
+pydantic
+pydantic-settings
+python-dotenv
